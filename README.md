@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9208ce06-6241-4bcc-b803-7e37671edde1/deploy-status)](https://app.netlify.com/sites/business-card-jithin/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
