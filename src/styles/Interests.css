@@ -1,0 +1,12 @@
+.int-heading {
+  width: 242.71px;
+  height: 21px;
+  font-size: 25px;
+  color: #f5f5f5;
+  margin-left: 10px;
+}
+
+.interests-container > p {
+  color: #dcdcdc;
+  margin: 10px;
+}

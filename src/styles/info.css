@@ -1,0 +1,48 @@
+.profile {
+  height: 317px;
+  width: 317px;
+  border-radius: 10px 10px 0px 0px;
+}
+.info-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.info-title {
+  font-weight: 700;
+  color: #ffffff;
+  margin-top: 10px;
+}
+.info-role {
+  margin-top: 5px;
+  color: #f3bf99;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.github-link {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  margin-top: 10px;
+
+  text-align: center;
+
+  color: #f5f5f5;
+}
+
+.links {
+  padding-top: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+.links > a {
+  padding: 5px;
+}
