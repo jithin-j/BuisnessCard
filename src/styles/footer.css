@@ -1,6 +1,6 @@
 .Footer-section {
   bottom: 0%;
-  position: fixed;
+  position: relative;
   background: #161619;
   width: 100%;
   height: 64px;
