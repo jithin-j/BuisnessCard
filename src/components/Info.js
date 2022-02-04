@@ -13,7 +13,7 @@ const Info = () => {
       <h3 className = 'info-role'>Frontend Developer</h3>
       <div className="links">
         <a href="mailto:jithinjagadeesh1@gmail.com"><img src={emailimg} alt="email-button" /></a>
-        <a href="https://www.linkedin.com/in/jithin-jagadeesh-94b787200/"><img src={linkedinb} alt="linkedin-button"/></a>
+        <a href="https://www.linkedin.com/in/jithin-jagadeesh/"><img src={linkedinb} alt="linkedin-button"/></a>
         <a href = "https://github.com/jithin-j"><img src = {githubb} alt="github button" /></a>
       </div>
     </div>
